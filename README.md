@@ -78,3 +78,4 @@ Di sinilah saya belajar membangun sistem yang andal, aman, dan tahan lama di baw
 <p align="center">
  <i>Dari jaringan saraf tiruan di masa kuliah hingga LLM agents di produksi — satu kurva belajar yang terus berjalan.</i>
 </p>
+
