@@ -42,7 +42,7 @@ Selengkapnya di **[tab Repositories](https://github.com/candrapwr?tab=repositori
 
 Membangun dan mengembangkan sistem TI untuk beragam instansi di Indonesia:
 
-- **Badan Intelijen Negara (BIN)** · **Pusat Investasi Pemerintah Kementerian Keuangan** · **Kementerian Sekretariat Negara**
+- **Pusat Investasi Pemerintah Kementerian Keuangan** · **Kementerian Sekretariat Negara**
 - **Kementerian Perdagangan RI** · **Pemerintah Kota Yogyakarta** · **Pemerintah Kabupaten Purworejo**
 - **Akademi Militer Magelang** · **Universitas Widya Mataram** · **BPR Kota Samarinda**
 
