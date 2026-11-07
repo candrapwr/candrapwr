@@ -38,18 +38,6 @@ Selengkapnya di **[tab Repositories](https://github.com/candrapwr?tab=repositori
 
 ---
 
-### 🏛️ Pengalaman instansi pemerintah & swasta
-
-Membangun dan mengembangkan sistem TI untuk beragam instansi di Indonesia:
-
-- **Pusat Investasi Pemerintah Kementerian Keuangan** · **Kementerian Sekretariat Negara**
-- **Kementerian Perdagangan RI** · **Pemerintah Kota Yogyakarta** · **Pemerintah Kabupaten Purworejo**
-- **Akademi Militer Magelang** · **Universitas Widya Mataram** · **BPR Kota Samarinda**
-
-Di sinilah saya belajar membangun sistem yang andal, aman, dan tahan lama di bawah kendala nyata.
-
----
-
 ### 🛠️ Bidang yang saya kuasai
 
 **AI dan Machine Learning** — LLM, RAG, AI *agents*, *neural network*, *computer vision*, LVQ, Backpropagation
